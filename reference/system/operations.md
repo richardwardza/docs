@@ -544,7 +544,7 @@ Result of the operation, if any.
 ### REST API
 
 ```
-POST /operations/trigger/:operation_uuid
+POST /flows/trigger/:operation_uuid
 ```
 
 ##### Example
